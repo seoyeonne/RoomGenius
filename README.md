@@ -1,14 +1,11 @@
-# ![Logo](https://github.com/user-attachments/assets/54e33ebc-a2e8-4c5c-bcbe-5884f31c970e) RoomGenius 
-
+<h1>
+  <img src="https://github.com/user-attachments/assets/54e33ebc-a2e8-4c5c-bcbe-5884f31c970e" alt="Logo" width="50">
+  RoomGenius
+</h1>
 
 
 ## content
-1. [소개](#AI 기반 개인 맞춤형 인테리어 디자인 플랫폼)
-2. [주요 기능](#주요-기능)
-3. [설치 방법](#설치-방법)
-4. [데모](#데모)
-5. [팀 소개](#팀-소개)
-6. [라이선스](#라이선스)
+
 
 ## 🏡 AI 기반 개인 맞춤형 인테리어 디자인 플랫폼 
 
