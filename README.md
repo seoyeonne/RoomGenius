@@ -1,4 +1,4 @@
-# ![Logo](<img width="79" alt="image" src="https://github.com/user-attachments/assets/d9859b22-4bd7-4dd0-b631-5fe6445eebcd">) RoomGenius 
+# ![Logo](<img width="79" alt="로고" src="https://github.com/user-attachments/assets/54e33ebc-a2e8-4c5c-bcbe-5884f31c970e">) RoomGenius 
 
 ## Team
 
@@ -42,15 +42,9 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
 
 
 
-
-
-
-<p align="center">
-  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/24e59b4c-eb3a-4c01-b7fe-7c0e602bd0eb)" alt="스케치 이미지" width="150"/>
-  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/8c4ff564-faa3-4f2f-b799-9587a22a0cd7)" alt="생성된 이미지 1" width="150"/>
-  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/c8d9d832-932d-48dd-88aa-d48d165bcc41)" alt="생성된 이미지 2" width="150"/>
-  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/d46a98c1-2a76-474f-889c-846372f32343)" alt="생성된 이미지 3" width="150"/>
-</p>
+| ![스케치](https://github.com/user-attachments/assets/8ffa87e8-0e6c-429b-8c31-09cb07e882cc) | ![이미지1](https://github.com/user-attachments/assets/e566ed5d-9a15-40c8-b4a8-70f1b0cf4e78) | ![이미지2](https://github.com/user-attachments/assets/a4825b5a-4fab-4d36-9af4-bee0ecd3ed0f) | ![이미지3](https://github.com/user-attachments/assets/2c6d092f-e4c6-4c09-a52a-352190e48a2c) |
+|---|---|---|---|
+| 스케치 | 이미지 1 | 이미지 2 | 이미지 3 |
 
 ## Install
 
