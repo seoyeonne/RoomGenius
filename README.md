@@ -21,9 +21,8 @@ HaHaHa
 해당 프로젝트는 2024학년도 1학기 캡스톤 디자인 프로젝트 입니다.
 
 
-![ezgif com-speed (1)](https://github.com/user-attachments/assets/2cb7c6e8-a672-4234-aff9-2b9840e7a687)
 
-
+https://github.com/user-attachments/assets/acbcb6ce-a6dc-4879-bd1b-96509d83c9ba
 
 
 최근 사람들의 개성과 취향을 반영한 맞춤형 공간 설계에 대한 관심이 꾸준히 늘어나고 있습니다. 특히 인테리어에 대한 열풍이 불면서, 많은이들이 자신의 공간을 직접 꾸미고 디자인하려는시도를 하고 있습니다.
