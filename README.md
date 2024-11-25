@@ -1,4 +1,4 @@
-# ![Logo](https://your-logo-url.com) RoomGenius 
+# ![Logo](<img width="79" alt="image" src="https://github.com/user-attachments/assets/d9859b22-4bd7-4dd0-b631-5fe6445eebcd">) RoomGenius 
 
 ## Team
 
@@ -45,13 +45,12 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
 
 
 
-
-![스케치](https://github.com/user-attachments/assets/24e59b4c-eb3a-4c01-b7fe-7c0e602bd0eb)
-
-![KakaoTalk_Photo_2024-11-26-00-23-23 003](https://github.com/user-attachments/assets/8c4ff564-faa3-4f2f-b799-9587a22a0cd7)
-![KakaoTalk_Photo_2024-11-26-00-23-23 002](https://github.com/user-attachments/assets/c8d9d832-932d-48dd-88aa-d48d165bcc41)
-![KakaoTalk_Photo_2024-11-26-00-23-22 001](https://github.com/user-attachments/assets/d46a98c1-2a76-474f-889c-846372f32343)
-
+<p align="center">
+  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/24e59b4c-eb3a-4c01-b7fe-7c0e602bd0eb)" alt="스케치 이미지" width="150"/>
+  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/8c4ff564-faa3-4f2f-b799-9587a22a0cd7)" alt="생성된 이미지 1" width="150"/>
+  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/c8d9d832-932d-48dd-88aa-d48d165bcc41)" alt="생성된 이미지 2" width="150"/>
+  <img src="[https://via.placeholder.com/200](https://github.com/user-attachments/assets/d46a98c1-2a76-474f-889c-846372f32343)" alt="생성된 이미지 3" width="150"/>
+</p>
 
 ## Install
 
