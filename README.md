@@ -40,11 +40,20 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
 - img와 프롬프트를 통한 방 이미지 생성
 프롬프트 : 따뜻한 붉은색 벽난로와 어두운 회색 러그로 꾸며진 크리스마스 트리와 금색 장식의 인테리어(아랍어)
 
-| ![image](https://github.com/user-attachments/assets/c2655051-af78-4868-b293-ceef8194791b)
-| ![이미지투원본](https://github.com/user-attachments/assets/cf6ee5e1-d54f-45a3-8c6a-c95faec61ec8)| 
-|---|---|
-| 원본 | 이미지 1 | 
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="203" alt="이미지투결과" src="https://github.com/user-attachments/assets/7a50e314-50fa-4c5d-a4c8-ba141ee8421e">
+      <br>
+      <strong>이미지 결과</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7a0c1d5f-3aa8-4082-933f-e8edbc084854" alt="이미지투원본">
+      <br>
+      <strong>이미지 원본</strong>
+    </td>
+  </tr>
+</table>
   
 - text를 이용한 방 이미지 생성
 
