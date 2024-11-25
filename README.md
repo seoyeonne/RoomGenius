@@ -1,20 +1,14 @@
-# ![Logo](<img width="79" alt="로고" src="https://github.com/user-attachments/assets/54e33ebc-a2e8-4c5c-bcbe-5884f31c970e">) RoomGenius 
+# ![Logo](https://github.com/user-attachments/assets/54e33ebc-a2e8-4c5c-bcbe-5884f31c970e) RoomGenius 
 
-## Team
 
-HaHaHa
 
-|Name|Department|Contact|
-|---|---|---|
-| Kang Ji Hyun | Major of Bigdata | kangjihyunlo@naver.com|
-| Hwang Seo Yeon | Major of Bigdata |cindyand1q2@gmail.com|
-| Lee Gun Hee | Major of Smart IoT |sjwwiies2829@gmail.com|
-
-## Coach
-
-|Name|Department|Contact|
-|---|---|---|
-| Sung Hoon Lim | Hallym Univ (Prof.) |shlim@hallym.ac.kr|
+## content
+1. [소개](#AI 기반 개인 맞춤형 인테리어 디자인 플랫폼)
+2. [주요 기능](#주요-기능)
+3. [설치 방법](#설치-방법)
+4. [데모](#데모)
+5. [팀 소개](#팀-소개)
+6. [라이선스](#라이선스)
 
 ## 🏡 AI 기반 개인 맞춤형 인테리어 디자인 플랫폼 
 
@@ -38,13 +32,37 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
 	•	번역 및 다국어 지원: 텍스트를 자동으로 영어로 번역하여 글로벌 사용자를 지원합니다.
 
 ## 🎥 Demo
-- Sketch된 이미지와 프롬프트를 통한 방 이미지 생성 
+- img와 프롬프트를 통한 방 이미지 생성
 
 
+  
+- text를 이용한 방 이미지 생성
+
+
+- Sketch된 이미지와 프롬프트를 통한 방 이미지 생성
 
 | ![스케치](https://github.com/user-attachments/assets/8ffa87e8-0e6c-429b-8c31-09cb07e882cc) | ![이미지1](https://github.com/user-attachments/assets/e566ed5d-9a15-40c8-b4a8-70f1b0cf4e78) | ![이미지2](https://github.com/user-attachments/assets/a4825b5a-4fab-4d36-9af4-bee0ecd3ed0f) | ![이미지3](https://github.com/user-attachments/assets/2c6d092f-e4c6-4c09-a52a-352190e48a2c) |
 |---|---|---|---|
 | 스케치 | 이미지 1 | 이미지 2 | 이미지 3 |
+- inpainting을 통한 방 이미지 생성 
+
+
+## Team
+
+HaHaHa
+
+|Name|Department|Contact|
+|---|---|---|
+| Kang Ji Hyun | Major of Bigdata | kangjihyunlo@naver.com|
+| Hwang Seo Yeon | Major of Bigdata |cindyand1q2@gmail.com|
+| Lee Gun Hee | Major of Smart IoT |sjwwiies2829@gmail.com|
+
+## Coach
+
+|Name|Department|Contact|
+|---|---|---|
+| Sung Hoon Lim | Hallym Univ (Prof.) |shlim@hallym.ac.kr|
+
 
 ## Install
 
