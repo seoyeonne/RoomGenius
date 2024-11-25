@@ -1,12 +1,20 @@
 <h1>
-  <img src="https://github.com/user-attachments/assets/54e33ebc-a2e8-4c5c-bcbe-5884f31c970e" alt="Logo" width="50">
+  <img src="https://github.com/user-attachments/assets/54e33ebc-a2e8-4c5c-bcbe-5884f31c970e" alt="Logo" width="30">
   RoomGenius
 </h1>
 
 
-## content
+## 📑 Content
 
-
+1. [🏡 AI 기반 개인 맞춤형 인테리어 디자인 플랫폼](#-ai-기반-개인-맞춤형-인테리어-디자인-플랫폼)
+2. [📖 About](#-about)
+3. [🛠 Features](#-features)
+4. [🎥 Demo](#-demo)
+5. [👥 Team](#-team)
+6. [👨‍🏫 Coach](#-coach)
+7. [⚙ Install](#-install)
+8. [📋 Requirements](#-requirements)
+   
 ## 🏡 AI 기반 개인 맞춤형 인테리어 디자인 플랫폼 
 
 해당 프로젝트는 2024학년도 1학기 캡스톤 디자인 프로젝트 입니다.
@@ -30,7 +38,12 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
 
 ## 🎥 Demo
 - img와 프롬프트를 통한 방 이미지 생성
+프롬프트 : 따뜻한 붉은색 벽난로와 어두운 회색 러그로 꾸며진 크리스마스 트리와 금색 장식의 인테리어(아랍어)
 
+| ![image](https://github.com/user-attachments/assets/c2655051-af78-4868-b293-ceef8194791b)
+| ![이미지투원본](https://github.com/user-attachments/assets/cf6ee5e1-d54f-45a3-8c6a-c95faec61ec8)| 
+|---|---|
+| 원본 | 이미지 1 | 
 
   
 - text를 이용한 방 이미지 생성
