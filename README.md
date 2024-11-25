@@ -58,7 +58,8 @@ https://github.com/user-attachments/assets/c5ff8baf-8d9d-416d-94fe-123eb0fe0c17
 </table>
   
 - text를 이용한 방 이미지 생성
-프롬프트 : 스타워즈 테마의 침실, 어두운 우주 배경 벽지와 LED 조명이 설치된 인테리어 
+프롬프트 : 스타워즈 테마의 침실, 어두운 우주 배경 벽지와 LED 조명이 설치된 인테리어
+
 https://github.com/user-attachments/assets/49c766fe-b80a-49f3-b214-8b82378ddca8
 
 - Sketch된 이미지와 프롬프트를 통한 방 이미지 생성
