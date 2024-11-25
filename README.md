@@ -40,6 +40,8 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
 - img와 프롬프트를 통한 방 이미지 생성
 프롬프트 : 따뜻한 붉은색 벽난로와 어두운 회색 러그로 꾸며진 크리스마스 트리와 금색 장식의 인테리어(아랍어)
 
+https://github.com/user-attachments/assets/c5ff8baf-8d9d-416d-94fe-123eb0fe0c17
+
 <table align="center">
   <tr>
     <td align="center">
@@ -48,7 +50,7 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
       <strong>이미지 결과</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7a0c1d5f-3aa8-4082-933f-e8edbc084854" alt="이미지투원본">
+      <img width="203" src="https://github.com/user-attachments/assets/7a0c1d5f-3aa8-4082-933f-e8edbc084854" alt="이미지투원본">
       <br>
       <strong>이미지 원본</strong>
     </td>
@@ -56,14 +58,19 @@ RoomGenius는 AI를 활용하여 개인 맞춤형 인테리어를 제공하는 �
 </table>
   
 - text를 이용한 방 이미지 생성
-
+프롬프트 : 스타워즈 테마의 침실, 어두운 우주 배경 벽지와 LED 조명이 설치된 인테리어 
+https://github.com/user-attachments/assets/49c766fe-b80a-49f3-b214-8b82378ddca8
 
 - Sketch된 이미지와 프롬프트를 통한 방 이미지 생성
 
 | ![스케치](https://github.com/user-attachments/assets/8ffa87e8-0e6c-429b-8c31-09cb07e882cc) | ![이미지1](https://github.com/user-attachments/assets/e566ed5d-9a15-40c8-b4a8-70f1b0cf4e78) | ![이미지2](https://github.com/user-attachments/assets/a4825b5a-4fab-4d36-9af4-bee0ecd3ed0f) | ![이미지3](https://github.com/user-attachments/assets/2c6d092f-e4c6-4c09-a52a-352190e48a2c) |
 |---|---|---|---|
 | 스케치 | 이미지 1 | 이미지 2 | 이미지 3 |
+
 - inpainting을 통한 방 이미지 생성 
+
+
+https://github.com/user-attachments/assets/6460d9ae-ac98-4432-aa74-1dcded53cb7b
 
 
 ## Team
